@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kunal</h1>
 <h3 align="center">A creative developer from India</h3>
-<img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+<img src="[https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif](https://cdn.dribbble.com/users/118337/screenshots/3496072/media/852766e42f3bd9d03f6d9032529aff2b.gif)">
 
 - 🌱 I’m currently learning **JavaScript & Web Development**
 
