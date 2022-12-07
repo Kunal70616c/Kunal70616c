@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kunal</h1>
 <h3 align="center">A creative developer from India</h3>
-<div class="tenor-gif-embed" data-postid="16596559" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
 - 🌱 I’m currently learning **JavaScript & Web Development**
 
