@@ -6,7 +6,7 @@
 ### <div align="center">I'm Kunal, and I am trying to be a Developer !! 👨‍💻🚀</div>  
   
 
-- 🌱 I’m currently learning **JavaScript & Web Development**
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - 👨‍💻 All of my projects are available at [https://kunal70616c.github.io/](https://kunal70616c.github.io/)
 
@@ -14,7 +14,6 @@
 
 - 📄 Know about my experiences [https://kunal70616c.github.io/data/CV-KunalPal.pdf](https://kunal70616c.github.io/data/CV-KunalPal.pdf)
 
-- ⚡ Fun fact **JavaScript is actually the G.O.A.T.**
  
   
 
