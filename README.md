@@ -1,14 +1,13 @@
-<div align="center">
+<h1 align="center">Hi 👋,  I'm  Kunal Pal</h1>
+<h3 align="center">"John Wick of the web, taking down bugs 🐞 with deadly precision 💢 and style."</h3>
+
+  <div align="center">
 <img src="banner.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-## <div align="center">I'm Kunal, "John Wick of the web, taking down bugs 🐞 with deadly precision 💢 and style."</div>  
-  
 
 - 🌱 I’m currently learning **DSA & C++**
 
-- 👨‍💻 All of my projects are available at [Link](https://kunal70616c.github.io/)
+- 🖥️ Favourite line of code `clang++ -o main {actual_filename_with_extension}`
 
 - 📫 How to reach me **kunal.cs.dev@outlook.com**
   
@@ -65,9 +64,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/LightningShadow11" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/KunalPal_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -76,9 +72,6 @@
 </a>
 <a href="https://instagram.com/https://www.instagram.com/kunal.pal1010/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCHb0bjR-dbdg8GyMbQSgprw?view_as=subscriber" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal70616c/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
