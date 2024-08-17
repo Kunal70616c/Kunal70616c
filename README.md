@@ -10,7 +10,6 @@
 - 🖥️ Favourite line of code `clang++ -o main {actual_filename_with_extension}`
 
 - 📫 How to reach me **kunal.cs.dev@outlook.com**
-  
 
 <br/>    
 
