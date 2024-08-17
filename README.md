@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kunal, and I am trying to be a Developer !! 👨‍💻🚀</div>  
+## <div align="center">I'm Kunal, and I am trying to be a Developer !! 👨‍💻🚀</div>  
   
 
 - 🌱 I’m currently learning **Flutter & Dart**
@@ -24,10 +24,13 @@
 
 
 
-### Frontend  
+### Language  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,nvim" />
+  </a>
+</p>
 </div>
 
 </td><td valign="top" width="33%">
