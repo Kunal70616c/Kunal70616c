@@ -3,14 +3,14 @@
 </div>  
   
 
-## <div align="center">I'm Kunal, and I am trying to be a Developer !! 👨‍💻🚀</div>  
+## <div align="center">I'm Kunal, "John Wick of the web, taking down bugs 🐞 with deadly precision 💢 and style."</div>  
   
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **DSA & C++**
 
 - 👨‍💻 All of my projects are available at [https://kunal70616c.github.io/](https://kunal70616c.github.io/)
 
-- 📫 How to reach me **kunal.pal1010@gmail.com**
+- 📫 How to reach me **kunal.cs.dev@outlook.com**
 
 - 📄 Know about my experiences [https://kunal70616c.github.io/data/CV-KunalPal.pdf](https://kunal70616c.github.io/data/CV-KunalPal.pdf)
 
@@ -19,7 +19,7 @@
 
 <br/>    
 
-## My Skill Set  
+## My Skills  
 <table><tr><td valign="top" width="33%">
 
 
@@ -28,12 +28,12 @@
 <div align="center">  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nvim" />
+    <img src="https://skillicons.dev/icons?i=git,github,neovim" />
   </a>
 </p>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="80%">
 
 
 
