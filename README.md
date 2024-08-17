@@ -8,41 +8,57 @@
 
 - 🌱 I’m currently learning **DSA & C++**
 
-- 👨‍💻 All of my projects are available at [https://kunal70616c.github.io/](https://kunal70616c.github.io/)
+- 👨‍💻 All of my projects are available at [Link](https://kunal70616c.github.io/)
 
 - 📫 How to reach me **kunal.cs.dev@outlook.com**
-
-- 📄 Know about my experiences [https://kunal70616c.github.io/data/CV-KunalPal.pdf](https://kunal70616c.github.io/data/CV-KunalPal.pdf)
-
- 
   
 
 <br/>    
 
 ## My Skills  
-<table><tr><td valign="top" width="33%">
+<table align="center" width=90%>
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks, Libraries & Databases </th>
+  </tr>
+  <tr>
+    <td>
+	    <p align="left">
+			  <a href="https://skillicons.dev">
+				    <img src="https://skillicons.dev/icons?i=js,c,cpp,java,py,dart" />
+			  </a>
+		</p>
+	</td>
+    <td>
+	    <p align="right">
+				  <a href="https://skillicons.dev">
+					    <img src="https://skillicons.dev/icons?i=flutter,sklearn,flask,mysql,firebase" />
+				  </a>
+		</p>
+	
+  </tr>
+  <tr>
+	  <th>Tools and IDEs</th>
+    <th>Operating Systems</th>
+  </tr>
+  <tr>
+	  <td>
+	   <p align="right">
+				  <a href="https://skillicons.dev">
+					    <img src="https://skillicons.dev/icons?i=neovim,vscode,arduino,git,github,gcp" />
+				  </a>
+		</p>
+	  </td>
+    <td>
+	   <p align="right">
+				  <a href="https://skillicons.dev">
+					    <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,windows,raspberrypi" />
+				  </a>
+		</p>
+	  </td>
+  </tr>
+</table>
 
-### Backend  
-<div align="center">  
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,neovim" />
-  </a>
-</p>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
