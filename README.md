@@ -5,9 +5,9 @@
 <img src="banner.gif" align="center" style="width: 100%" />
 </div>  
 
-- 🌱 I’m currently learning **DSA & C++**
+- 🌱 I’m currently learning **Microservices & Java**
 
-- 🖥️ Favourite line of code `clang++ -o main {actual_filename_with_extension}`
+- 🖥️ Favourite line of code `System.out.println("JAVA is Scary")`
 
 - 📫 How to reach me **kunal.cs.dev@outlook.com**
 
@@ -30,7 +30,7 @@
     <td>
 	    <p align="right">
 				  <a href="https://skillicons.dev">
-					    <img src="https://skillicons.dev/icons?i=flutter,sklearn,flask,mysql,firebase" />
+					    <img src="https://skillicons.dev/icons?i=flutter,spring,restapi,mysql,firebase" />
 				  </a>
 		</p>
 	
