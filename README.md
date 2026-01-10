@@ -23,14 +23,14 @@
     <td>
 	    <p align="left">
 			  <a href="https://skillicons.dev">
-				    <img src="https://skillicons.dev/icons?i=js,c,cpp,java,py,dart" />
+				    <img src="https://skillicons.dev/icons?i=java,c,cpp,js,py,dart" />
 			  </a>
 		</p>
 	</td>
     <td>
 	    <p align="right">
 				  <a href="https://skillicons.dev">
-					    <img src="https://skillicons.dev/icons?i=flutter,spring,restapi,mysql,firebase" />
+					    <img src="https://skillicons.dev/icons?i=flutter,spring,postgres,mysql,redis" />
 				  </a>
 		</p>
 	
@@ -43,7 +43,7 @@
 	  <td>
 	   <p align="right">
 				  <a href="https://skillicons.dev">
-					    <img src="https://skillicons.dev/icons?i=neovim,vscode,arduino,git,github,gcp" />
+					    <img src="https://skillicons.dev/icons?i=neovim,kafka,arduino,git,docker,aws" />
 				  </a>
 		</p>
 	  </td>
@@ -69,7 +69,7 @@
 <a href="https://www.facebook.com/https://www.facebook.com/lightning.shadow11/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/kunal.pal1010/" target="_blank">
+<a href="https://instagram.com/https://www.instagram.com/kunal_on_earth.jpg/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal70616c/" target="_blank">
