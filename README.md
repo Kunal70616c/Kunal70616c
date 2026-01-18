@@ -16,8 +16,6 @@ Primarily a **backend developer**, comfortable with APIs, databases, and distrib
 - 🏋️ Gym to stay disciplined and sane  
 - 🌍 Traveling to reset, explore, and escape logs for a while
 
-[![](https://komarev.com/ghpvc/?username=Kunal70616c&color=000000)](https://github.com/Kunal70616c?tab=repositories)
-
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:kunal.cs.dev@outlook.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kunal70616c/)
 
