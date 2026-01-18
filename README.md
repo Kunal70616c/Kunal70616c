@@ -1,91 +1,35 @@
-<h1 align="center">Hi 👋,  I'm  Kunal Pal</h1>
-<h3 align="center">"John Wick of the web, taking down bugs 🐞 with deadly precision 💢 and style."</h3>
+<h1 align="center">
+  <img src="lalucheNew.gif" style="width: 100%" />
+</h1>
 
-  <div align="center">
-<img src="banner.gif" align="center" style="width: 100%" />
-</div>  
+### Hi 👋
 
-- 🌱 I’m currently learning **Microservices & Java**
+I'm **Kunal Pal**, a developer who believes bugs should be handled quietly, efficiently, and without mercy 🐞⚔️.
 
-- 🖥️ Favourite line of code `System.out.println("JAVA is Scary")`
+I enjoy building systems that actually work — the kind that survive real users, real traffic, and real production issues. Currently focused on **Java and microservices**, where small mistakes turn into great learning experiences (and occasionally long nights).
 
-- 📫 How to reach me **kunal.cs.dev@outlook.com**
+Primarily a **backend developer**, comfortable with APIs, databases, and distributed systems . I touch frontend when necessary — with caution.
+### Outside of code 🧩
 
-<br/>    
+- 🔧 Building DIY projects and experimenting with things just to see how they work  
+- ☕ Coffee — non-negotiable  
+- 🏋️ Gym to stay disciplined and sane  
+- 🌍 Traveling to reset, explore, and escape logs for a while
 
-## My Skills  
-<table align="center" width=90%>
-  <tr>
-    <th>Languages</th>
-    <th>Frameworks, Libraries & Databases </th>
-  </tr>
-  <tr>
-    <td>
-	    <p align="left">
-			  <a href="https://skillicons.dev">
-				    <img src="https://skillicons.dev/icons?i=java,c,cpp,js,py,dart" />
-			  </a>
-		</p>
-	</td>
-    <td>
-	    <p align="right">
-				  <a href="https://skillicons.dev">
-					    <img src="https://skillicons.dev/icons?i=flutter,spring,postgres,mysql,redis" />
-				  </a>
-		</p>
-	
-  </tr>
-  <tr>
-	  <th>Tools and IDEs</th>
-    <th>Operating Systems</th>
-  </tr>
-  <tr>
-	  <td>
-	   <p align="right">
-				  <a href="https://skillicons.dev">
-					    <img src="https://skillicons.dev/icons?i=neovim,kafka,arduino,git,docker,aws" />
-				  </a>
-		</p>
-	  </td>
-    <td>
-	   <p align="right">
-				  <a href="https://skillicons.dev">
-					    <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,windows,raspberrypi" />
-				  </a>
-		</p>
-	  </td>
-  </tr>
-</table>
+[![](https://komarev.com/ghpvc/?username=Kunal70616c&color=000000)](https://github.com/Kunal70616c?tab=repositories)
 
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:kunal.cs.dev@outlook.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kunal70616c/)
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://twitter.com/KunalPal_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/lightning.shadow11/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/kunal_on_earth.jpg/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal70616c/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-<br/>  
-
-  
-
-<br/>  
-
-
-----
+<p align="center">
+  <img src="line.gif" style="width: 100%" />
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,js,py,dart,flutter,spring,firebase,mysql,redis,maven,fastapi,neovim,eclipse,idea,kafka,arduino,bots,git,github,postman,kubernetes,docker,aws,apple,linux,ubuntu,windows,raspberrypi" />
+	  
+  </a>
+</p>
+<p align="center">
+  <img src="line.gif" style="width: 100%" />
+</p>
