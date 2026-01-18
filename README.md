@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="lalucheNew.gif" style="width: 100%" />
-</h1>
+</p>
 
 ### Hi 👋
 
