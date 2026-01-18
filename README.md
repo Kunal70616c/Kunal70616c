@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lalucheNew.gif" style="width: 100%" />
+  <img src="banner2.gif" style="width: 100%" />
 </p>
 
 ### Hi 👋
